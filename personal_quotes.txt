@@ -2,3 +2,5 @@ Test branches
 Strength through Struggle - Michael Choi
 
 I like blue - Linta
+
+Test git diff  - change made to personal_quotes.txt fron branch dev_team1
